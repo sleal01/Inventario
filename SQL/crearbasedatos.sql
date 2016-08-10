@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS inventa;
+CREATE DATABASE inventa;
